@@ -1,0 +1,70 @@
+html, body 
+{
+	height: 100%;
+	margin: 0; padding: 0;
+}
+
+#googlesearch
+{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+.logo
+{
+	display: flex;
+    	justify-content: center;
+}		
+
+input.maRecherche
+{
+	border-radius: 30px;
+	width: 600px;
+	height: 40px;
+}
+
+#fonction
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.item
+{
+	display: inline;
+    	padding: 10px;
+}
+
+body 
+{
+	display : table;
+	width: 100%;
+	height: 100%;
+}
+body img.imagegoogle
+{
+	padding-top: 120px;
+}
+
+footer
+{
+	background-color: #E8EBEE;
+	display : table-row;
+	height: 100px;
+	vertical-align:middle;
+}
+#footer
+{
+	display: flex;
+	justify-content: space-between;
+
+}
+.footerleft
+{
+    	margin: 2px;
+}
+.footerright
+{
+    	margin: 2px;
+}
+
